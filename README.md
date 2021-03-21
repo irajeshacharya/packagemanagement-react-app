@@ -61,76 +61,76 @@ Each component has its own stylesheet which is applied while rendering of the sa
 #### Home Screen
 List of available packages are displayed.
 
-![](Images/HomeScreen.png)
+![](images/HomeScreen.png)
 
 #### Package
 Package Details. Allows user to add the package to the cart.
 
-![Home Screen](Images/Package.png)
+![Home Screen](images/Package.png)
 
 #### Search Package
 A Search Bar present on Navigation Bar to help user to search the Package.
 
-![Home Screen](Images/Search.png)
+![Home Screen](images/Search.png)
 
 #### Empty Cart
 Initially user won't be having item in the cart. An empty screen is displayed with the link **start adding some!**, clicking on which will redirect the user to the home screen.
 
 Notice **Search Box** and **Cart** buttons are not rendered in this page.
 
-![Home Screen](Images/EmptyCart.png)
+![Home Screen](images/EmptyCart.png)
 
 #### Add Packge
 Home Screen allows user to add package to the screen by clicking on **Add to Cart** button which is available on the each package.
 
-![Add Packge](Images/PackageAddedToTheCart.png)
+![Add Packge](images/PackageAddedToTheCart.png)
 
 #### Cart
 Displays item present in the cart and allows user to do various operations.
 
-![Cart](Images/Cart.png)
+![Cart](images/Cart.png)
 
 #### Increment the Package Count
 In Cart page if the package is already exist by clicking on **+** button (next to the quantiy of the package) user can increment the count of the package.
 
 Before Increment :
-![Before Increment](Images/BeforeIncrement.png)
+![Before Increment](images/BeforeIncrement.png)
 
 After Increment :
-![After Increment](Images/AfterIncrement.png)
+![After Increment](images/AfterIncrement.png)
 
 #### Decrement the Package Count
 In Cart page if the package is already exist by clicking on **-** button (next to the quantiy of the package) user can decrement the count of the package.
 
 Before Decrement :
-![Before Decrement](Images/BeforeDecrement.png)
+![Before Decrement](images/BeforeDecrement.png)
 
 After Decrement :
-![After Decrement](Images/AfterDecrement.png)
+![After Decrement](images/AfterDecrement.png)
 
 #### Remove a Package
 Allows user to remove a package from the cart.
 
 Before Remove :
-![Before Remove](Images/BeforeRemove.png)
+![Before Remove](images/BeforeRemove.png)
 
 After Remove :
-![After Remove](Images/AfterRemove.png)
+![After Remove](images/AfterRemove.png)
 
 #### Discount
 Buying **more than 1 Package** gives user **10% Discount** on total amount.
 
 Without Discount :
-![Without Discount](Images/WithoutDiscount.png)
+![Without Discount](images/WithoutDiscount.png)
 
 With Discount :
-![With Discount](Images/WithDiscount.png) 
+![With Discount](images/WithDiscount.png) 
 
 #### Empty Cart
 At one go user can remove all the items present in the cart by clicking on empty cart.
 
 Before Empty Cart :
-![Before Empty Cart](Images/BeforeClickEmptyCart.png)
+![Before Empty Cart](images/BeforeClickEmptyCart.png)
 
 After Empty Cart :
-![After Empty Cart](Images/AfterClickEmptyCart.png)
+![After Empty Cart](images/AfterClickEmptyCart.png)
