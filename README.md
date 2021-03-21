@@ -83,54 +83,54 @@ Notice **Search Box** and **Cart** buttons are not rendered in this page.
 #### Add Packge
 Home Screen allows user to add package to the screen by clicking on **Add to Cart** button which is available on the each package.
 
-![Home Screen](Images/PackageAddedToTheCart.png)
+![Add Packge](Images/PackageAddedToTheCart.png)
 
 #### Cart
 Displays item present in the cart and allows user to do various operations.
 
-![Home Screen](Images/Cart.png)
+![Cart](Images/Cart.png)
 
 #### Increment the Package Count
 In Cart page if the package is already exist by clicking on **+** button (next to the quantiy of the package) user can increment the count of the package.
 
 Before Increment :
-![Home Screen](Images/BeforeIncrement.png)
+![Before Increment](Images/BeforeIncrement.png)
 
 After Increment :
-![Home Screen](Images/AfterIncrement.png)
+![After Increment](Images/AfterIncrement.png)
 
 #### Decrement the Package Count
 In Cart page if the package is already exist by clicking on **-** button (next to the quantiy of the package) user can decrement the count of the package.
 
 Before Decrement :
-![Home Screen](Images/BeforeDecrement.png)
+![Before Decrement](Images/BeforeDecrement.png)
 
 After Decrement :
-![Home Screen](Images/AfterDecrement.png)
+![After Decrement](Images/AfterDecrement.png)
 
 #### Remove a Package
 Allows user to remove a package from the cart.
 
 Before Remove :
-![Home Screen](Images/BeforeRemove.png)
+![Before Remove](Images/BeforeRemove.png)
 
 After Remove :
-![Home Screen](Images/AfterRemove.png)
+![After Remove](Images/AfterRemove.png)
 
 #### Discount
 Buying **more than 1 Package** gives user **10% Discount** on total amount.
 
 Without Discount :
-![Home Screen](Images/WithoutDiscount.png)
+![Without Discount](Images/WithoutDiscount.png)
 
 With Discount :
-![Home Screen](Images/WithDiscount.png) 
+![With Discount](Images/WithDiscount.png) 
 
 #### Empty Cart
 At one go user can remove all the items present in the cart by clicking on empty cart.
 
 Before Empty Cart :
-![Home Screen](Images/BeforeClickEmptyCart.png)
+![Before Empty Cart](Images/BeforeClickEmptyCart.png)
 
 After Empty Cart :
-![Home Screen](Images/AfterClickEmptyCart.png)
+![After Empty Cart](Images/AfterClickEmptyCart.png)
