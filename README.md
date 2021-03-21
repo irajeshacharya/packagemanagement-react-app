@@ -61,7 +61,7 @@ Each component has its own stylesheet which is applied while rendering of the sa
 #### Home Screen
 List of available packages are displayed.
 
-![Home Screen](Images/HomeScreen.png)
+![Home Screen](/Images/HomeScreen.png)
 
 #### Package
 Package Details. Allows user to add the package to the cart.
