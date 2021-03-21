@@ -11,11 +11,8 @@ const Navbar = ({totalItems, input, updateInput}) => {
     const classes = useStyles();
     const location = useLocation();
 
-    
-
     const BarStyling = {width:"20rem",  border:"none", padding:"0.5rem", display: "block", "textAlign": "center",  margin: "auto",
     width: "50%", border: "2px solid black", padding: "10px", top:"10"};
-    //border: "3px solid green",
     
     return (
         <>
@@ -27,8 +24,7 @@ const Navbar = ({totalItems, input, updateInput}) => {
 
                     {location.pathname === "/" && (
                     <Typography variant="h6" className={classes.title}>
-                        <input inputStyle={{backgroundColor: 'white'}} containerStyle={{backgroundColor: 'white', borderWidth: 1, borderRadius: 5}} 
-                        placeholderTextColor={'#g5g5g5'} style={BarStyling} key="random1" value={input} placeholder={"Search Packages"}
+                        <input  style={BarStyling} key="random1" value={input} placeholder={"Search Packages"}
                         onChange={(e) => updateInput(e.target.value)}/>
                     </Typography>)}
              

@@ -51,11 +51,7 @@ const Cart = ({cart,  handleIncrementPackageCount, handleReducePackageCount, han
                     <Button className={classes.emptyButton} size="large" type="button" variant="contained" color="secondary" onClick={handleEmptyCart} gutterBottom> Empty Cart
 
                     </Button>
-                    <Button className={classes.changeCurren} size="large" type="button" variant="contained" color="primary" gutterBottom> Change Currency</Button>   
 
-                    {/* <Button className={classes.checkoutButton} size="large" type="button" variant="contained" color="primary" gutterBottom> Check Out
-
-                    </Button> */}
             </div>
             
 
