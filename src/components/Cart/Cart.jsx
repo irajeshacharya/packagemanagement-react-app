@@ -14,10 +14,11 @@ const Cart = ({cart,  handleIncrementPackageCount, handleReducePackageCount, han
     logger.debug(cart)
     let netPayable = 0;
     let discount = 0;
-    if(cart.quantity!=null && cart.quantity>1) {
-        discount = cart.total * 0.1;
-        netPayable =  cart.total - discount;
-         
+    if(cart.quantity!=null) {
+        if(cart.quantity>1) {
+            discount = cart.total * 0.1;
+        }
+        netPayable =  cart.total - discount;   
     }
 
     if(cart.cartMap !=null) {
